@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Gayan Udugama @gudugama
+- 👋 Hi, I’m Gayan Udugama 
+-     @gudugama
 - 🌱 I’m currently learning at University of Massachusetts Amherst
 
 - 📫 How to reach me : gkudugama@gmail.com / gudugama@umass.edu
